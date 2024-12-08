@@ -11,7 +11,7 @@ Prerequisites
 Steps to Run the Project
 
  1) Clone the Repository:
-      git clone https://github.com/your-username/Signup-Login-form.git
+      git clone https://github.com/omrajepatil/Signup-Login-form.git
       cd Signup-Login-form
  2) Install Dependencies:
       npm install and 
@@ -19,14 +19,12 @@ Steps to Run the Project
  3) Start the Development Server:
       npm run dev
 
-This will start the development server and open the application in your default browser. The application will be running on http://localhost:3000.
 
 (b) Design Choices Made
 
   1) React with TypeScript:
-
-   The project was built using React, a popular JavaScript library for building user interfaces, with TypeScript for type 
-   safety. TypeScript ensures that we catch potential bugs during development and improves code maintainability.
+     The project was built using React, a popular JavaScript library for building user interfaces, with TypeScript for type 
+     safety. TypeScript ensures that we catch potential bugs during development and improves code maintainability.
 
   2) Formik was used to simplify the form handling process. 
     It provides built-in handling for form state, validation, and error messages, which reduces the boilerplate code needed      to manage forms in React.
