@@ -1,4 +1,4 @@
-# Signup-Login Form with Password Strength Checker
+# Signup-Login Form 
 
 This project is a simple SignUp-Login form built with React, TypeScript, and Formik for form handling and validation. The form includes password strength indication for the SignUp form and the ability to show success messages after form submission.
 
@@ -14,8 +14,8 @@ Steps to Run the Project
       git clone https://github.com/your-username/Signup-Login-form.git
       cd Signup-Login-form
  2) Install Dependencies:
-      npm install
-      npm
+      npm install and 
+      npm i formik yup
  3) Start the Development Server:
       npm run dev
 
@@ -25,8 +25,8 @@ This will start the development server and open the application in your default 
 
   1) React with TypeScript:
 
-    The project was built using React, a popular JavaScript library for building user interfaces, with TypeScript for type       safety. TypeScript ensures that we catch potential bugs during development and improves code maintainability.
-    Formik for Form Handling:
+   The project was built using React, a popular JavaScript library for building user interfaces, with TypeScript for type 
+   safety. TypeScript ensures that we catch potential bugs during development and improves code maintainability.
 
   2) Formik was used to simplify the form handling process. 
     It provides built-in handling for form state, validation, and error messages, which reduces the boilerplate code needed      to manage forms in React.
